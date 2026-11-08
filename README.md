@@ -10,5 +10,5 @@ https://github.com/user-attachments/assets/2bf38954-0a5f-4410-a8e9-4ba217a710d1
 
 Disclaimer: This is a prototype of Quick Notes, built for testing and feedback before final production.
 
-Deploying soon, Stay connected!
+Prototype Deploying soon, Stay connected!
 </p>
